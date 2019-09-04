@@ -19,6 +19,11 @@
 .wrapper1{
 	overflow: hidden;
 }
+
+.wrapper1 div{
+	width: 26.3%;
+}
+
 .dockleft{
 	background-color: rgb(247, 198, 222);
 	text-align: center;
