@@ -38,7 +38,7 @@
 	text-align: center;
 	width: 28%;
 	padding-right:260%;
-	height: 347px;
+	height: 100px;
 	border: 3px solid rgb(169, 124, 247);
 }
 .content{
@@ -46,7 +46,7 @@
 	text-align: center;
 	padding-right:260%;
 	width: 28%;
-	height: 347px;
+	height: 595px;
 	border: 3px solid rgb(0,0,0);
 }
 .dockright{
